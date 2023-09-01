@@ -1,0 +1,962 @@
+[
+	{
+		"id": "http://zotero.org/users/9607203/items/UWG5A3ZX",
+		"type": "article-journal",
+		"container-title": "Behavior Research Methods",
+		"DOI": "10.3758/s13428-022-02048-3",
+		"license": "All rights reserved",
+		"note": "citation-key: HALTpart2\nstatus: Advance online publication",
+		"title": "The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Manca",
+				"given": "Benedetto"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/UHKPT3LL",
+		"type": "article-journal",
+		"abstract": "Although virtual reality, video entertainment, and computer games are dependent on the three-dimensional reproduction of sound (including front, rear, and height channels), it remains unclear whether 3D-audio formats actually intensify the emotional listening experience. There is currently no valid inventory for the objective measurement of immersive listening experiences resulting from audio playback formats with increasing degrees of immersion (from mono to stereo, 5.1, and 3D). The development of the Immersive Music Experience Inventory (IMEI) could close this gap. An initial item list (\n              N\n              = 25) was derived from studies in virtual reality and spatial audio, supplemented by researcher-developed items and items extracted from historical descriptions. Psychometric evaluation was conducted by an online study (\n              N\n              = 222 valid cases). The\n              N\n              = 222 Participants (female = 112, mean age = 38.6) were recruited via mailing lists (\n              n\n              = 34) and via a panel provider (\n              n\n              = 188). Based on controlled headphone playback, participants listened to four songs/pieces, each in the three formats of mono, stereo, and binaural 3D audio. The latent construct “immersive listening experience” was determined by probabilistic test theory (item response theory, IRT) and by means of the many-facet Rasch measurement (MFRM). As a result, the specified MFRM model showed good model fit (62.69% of explained variance). The final one-dimensional inventory consists of 10 items and will be made available in English and German.",
+		"container-title": "Frontiers in Psychology",
+		"DOI": "10.3389/fpsyg.2022.951161",
+		"ISSN": "1664-1078",
+		"journalAbbreviation": "Front. Psychol.",
+		"license": "All rights reserved",
+		"note": "citation-key: imei",
+		"page": "951161",
+		"source": "DOI.org (Crossref)",
+		"title": "Wrapped into sound: Development of the Immersive Music Experience Inventory (IMEI)",
+		"title-short": "Wrapped into sound",
+		"URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.951161/full",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/TH7ARDYL",
+		"type": "speech",
+		"event-place": "Visselhövede, Germany",
+		"license": "All rights reserved",
+		"note": "issued: 2022-07-28/2022-07-30\nevent: Hearing4all: Joint Research Academy 10th Annual Summer School\ncontainer-title: Special: Online hearing experiments\ncontainer-author: R. Hake\ngenre: Conference session\ncitation-key: HALTpresentation2022",
+		"publisher-place": "Visselhövede, Germany",
+		"title": "The Headphone and Loudspeaker Test",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/XGHYL46K",
+		"type": "paper-conference",
+		"event-place": "Virtuelle Posterkonferenz",
+		"event-title": "37. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie \"Musik und soziale Verbundenheit\"",
+		"license": "All rights reserved",
+		"note": "genre: Poster presentation\nissued: 2021-09-02/2021-09-03\ncitation-key: HALTdgm2021",
+		"publisher-place": "Virtuelle Posterkonferenz",
+		"title": "Der Headphone and Loudspeaker Test (HALT): Vorschläge für die kontrollierte Verwendung von Wiedergabegeräten in Internet-Experimenten",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Manca",
+				"given": "Benedetto"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/N3CINEYA",
+		"type": "paper-conference",
+		"event-place": "Fully virtual conferencing",
+		"event-title": "16th International Conference on Music Perception and Cognition/11th Conference of the European Society for the Cognitive Sciences of Music",
+		"license": "All rights reserved",
+		"note": "issued: 2021-07-28/2021-07-31\ngenre: Presentation\ncitation-key: HALT1presentation2021",
+		"publisher-place": "Fully virtual conferencing",
+		"title": "Bringing confounding variables to a HALT: Suggestions for the controlled use of playback devices in internet experiments",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/NXDIX2ET",
+		"type": "paper-conference",
+		"event-place": "Fully virtual conferencing",
+		"event-title": "16th International Conference on Music Perception and Cognition/11th Conference of the European Society for the Cognitive Sciences of Music",
+		"license": "All rights reserved",
+		"note": "genre: Poster presentation\nissued: 2021-07-28/2021-07-31\ncitation-key: HALT2presentation2021",
+		"publisher-place": "Fully virtual conferencing",
+		"title": "Headphone and loudspeaker screening for web-based auditory experiments: Suggestions for a reliable estimation of data quality and sample size",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Manca",
+				"given": "Benedetto"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/2JTL9CLX",
+		"type": "paper-conference",
+		"event-place": "Virtuelle Konferenz",
+		"event-title": "37. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie \"Musik und soziale Verbundenheit\"",
+		"license": "All rights reserved",
+		"note": "genre: Poster presentation\nissued: 2021-09-02/2021-09-03\ncitation-key: IAQIdgm2021",
+		"publisher-place": "Virtuelle Konferenz",
+		"title": "Messung immersiven Musik-Erlebens: Das Immersive Audio Quality Inventory",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/CZ6ZCNGC",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              In internet experiments on auditory perception, playback devices may be a confounding variable reducing internal validity. A procedure to remotely test multiple characteristics of playback devices does not currently exist. Thus, the main goals of this study were to (i) develop and (ii) evaluate a comprehensive, efficient, and easy-to-handle test procedure for the reliable control and identification of playback device characteristics in online experiments. Based on a counting task paradigm, the first part of the Headphone and Loudspeaker Test (HALT–Part I) was developed with which researchers can standardize sound level adjustments, detect stereo/mono playback, and assess lower frequency limits. In a laboratory study (\n              N\n               = 40), HALT–Part I was evaluated with four playback devices (circumaural and intra-aural headphones; external and laptop loudspeakers). Beforehand, the acoustical properties of all playback devices had been measured (e.g., sound pressure level, frequency response, total harmonic distortion). The analysis suggested that HALT–Part I has high test–retest reliability (\n              r\n              tt\n               = .90 for level adjustment and\n              r\n              tt\n               = .79 for stereo/mono detection) and is an efficient (3.5 minutes for completion) method to remotely test playback devices and listening conditions (sound level, stereo/mono playback). The procedure can help improve data quality in internet experiments.",
+		"container-title": "Behavior Research Methods",
+		"DOI": "10.3758/s13428-022-01859-8",
+		"ISSN": "1554-3528",
+		"journalAbbreviation": "Behav Res",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "citation-key: HALTpart1",
+		"page": "1094–1107",
+		"source": "DOI.org (Crossref)",
+		"title": "The Headphone and Loudspeaker Test – Part I: Suggestions for controlling characteristics of playback devices in internet experiments",
+		"title-short": "The Headphone and Loudspeaker Test – Part I",
+		"URL": "https://link.springer.com/10.3758/s13428-022-01859-8",
+		"volume": "55",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/V6FFGKZV",
+		"type": "paper-conference",
+		"event-place": "Würzburg, Germany",
+		"event-title": "38. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie \"Die Psychologie der populären Musik\"",
+		"license": "All rights reserved",
+		"note": "issued: 2022-09-02/2022-09-04\ngenre: Poster presentation\ncitation-key: hahn_reanalysis_dgm2022",
+		"publisher-place": "Würzburg, Germany",
+		"title": "Emotionaler Mehrwert durch 3D-Audio? Vergleichende Reanalyse eines Datensatzes zum Musik-Erleben in den Formaten Stereo, Surround und Auro-3D",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/SGMKM3J4",
+		"type": "article-journal",
+		"container-title": "Jahrbuch Musikpsychologie",
+		"license": "All rights reserved",
+		"note": "genre: Tagungsbericht\ncitation-key: icmpc16escom11tagunsbericht",
+		"page": "239-241",
+		"title": "ICMPC16/ESCOM11, 28.-31. Juli 2021, Fully virtual Conferencing",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/V66GKX49",
+		"type": "document",
+		"license": "All rights reserved",
+		"note": "citation-key: psyquest_introduction",
+		"title": "Introduction to psyquest -- Deploying psychosocial and music-related questionnaires for data collection in R",
+		"URL": "http://media.gold-msi.org/misc/psyquest_introduction_v17.pdf",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Pausch",
+				"given": "Viola"
+			},
+			{
+				"family": "Müllensiefen",
+				"given": "Daniel"
+			},
+			{
+				"family": "Höger",
+				"given": "Frank"
+			},
+			{
+				"family": "Frieler",
+				"given": "Klaus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/RDSHPMYD",
+		"type": "software",
+		"license": "All rights reserved",
+		"note": "genre: R package\ncitation-key: HALTpackage",
+		"title": "HALT",
+		"URL": "https://github.com/KilianSander/HALT",
+		"version": "Version 0.12.1",
+		"author": [
+			{
+				"family": "Frieler",
+				"given": "Klaus"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/KUWXLRGC",
+		"type": "software",
+		"license": "All rights reserved",
+		"note": "genre: Shiny app\ncitation-key: HALTConfig",
+		"title": "HALTConfig",
+		"URL": "https://github.com/KilianSander/HALTConfig",
+		"version": "Version 1.1",
+		"author": [
+			{
+				"family": "Frieler",
+				"given": "Klaus"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/2YGPEMYU",
+		"type": "paper-conference",
+		"event-place": "Fully virtual conferencing",
+		"event-title": "16th International Conference on Music Perception and Cognition/11th Conference of the European Society for the Cognitive Sciences of Music",
+		"license": "All rights reserved",
+		"note": "issued: 2021-07-28/2021-07-31\ngenre: Presentation\nnote: https://drive.google.com/file/d/1cRXxOHGccBGt9Kh7M0jM7ey5kS58hQdK/view\ncitation-key: psychTestRpresentation2021\ntext-case: lowercase",
+		"publisher-place": "Fully virtual conferencing",
+		"title": "psychTestR: A platform for individual differences research in music psychology",
+		"author": [
+			{
+				"family": "Harrison",
+				"given": "Peter M. C."
+			},
+			{
+				"family": "Pausch",
+				"given": "Viola"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Höger",
+				"given": "Frank"
+			},
+			{
+				"family": "Frieler",
+				"given": "Klaus"
+			},
+			{
+				"family": "Müllensiefen",
+				"given": "Daniel"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/FDZDS5Q5",
+		"type": "paper-conference",
+		"abstract": "Advances in audio reproduction from mono to stereo to the most recent 3D-audio formats were fueled by the assumption that they would improve the immersive listening experience. However, up until now no valid psychometric inventory for the objective verification of such impact hypotheses has existed. This research gap shall be bridged by the development of the Immersive Audio Quality Inventory (IAQI, say \"Yuackee\"). The initial item list (N = 25) in this study was derived from existing inventories applied in research on virtual reality, gaming, and spatial audio, supplemented by items extracted from historical descriptions of spatial audio effects (e.g., by Wagner or Reger). The main research aim was the psychometric evaluation of the initial item set with the objective of producing an efficient (short) scale with high psychometric quality. To this end, with headphones, participants listened to 12 short sound examples (in the formats of mono, stereo and 3D-audio with a duration of about 60 s). Participants (N = 220 valid cases) rated all 12 sound examples on the 25 items (4-point rating scale). The latent construct \"immersive listening experience\" was determined on the basis of probabilistic test theory (item response theory) and by means of a Many-Facet Rasch Measurement (MFRM). As a result, the specified model for the MFRM (5 facets and 3 dummy facets) showed good model fit (62.13 % explained variance). The final one-dimensional 10-item list will be presented, and potential applications will be discussed.",
+		"event-place": "Düsseldorf, Germany",
+		"event-title": "31. Tonmeistertagung",
+		"license": "All rights reserved",
+		"note": "issued: 2021-11-03/2021-11-06\ngenre: Presentation\ncitation-key: IAQItmt2021",
+		"publisher-place": "Düsseldorf, Germany",
+		"title": "The measurement of 3D-audio experience: The „Immersive Audio Quality Inventory\"",
+		"author": [
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/H88ZTPEQ",
+		"type": "speech",
+		"event-place": "Würzburg, Germany",
+		"license": "All rights reserved",
+		"note": "issued: 2022-09-02/2022-09-04\nevent: 38. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie \"Die Psychologie der populären Musik\"\ncontainer-author: C. Bullerjahn\ncontainer-title: Immersives Musik-Erleben, Musik und Gaming\ngenre: Conference session\ncitation-key: wagner3.0DGM2022",
+		"publisher-place": "Würzburg, Germany",
+		"title": "Immersives Musik-Erleben: Psychophysiologische Korrelate",
+		"author": [
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Silas",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Kiyan",
+				"given": "Roman"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Schössow",
+				"given": "Daphne"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/4Z358YM7",
+		"type": "software",
+		"license": "All rights reserved",
+		"note": "genre: R package\ntext-case: lowercase\ncitation-key: EGQpackage",
+		"title": "groovescale",
+		"URL": "https://github.com/KilianSander/groovescale",
+		"version": "Version 0.9.0",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Labonde",
+				"given": "Philippe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/29WDUX7S",
+		"type": "paper-conference",
+		"event-place": "Virtuelle Posterkonferenz",
+		"event-title": "36. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie",
+		"license": "All rights reserved",
+		"note": "genre: Poster presentation\nissued: 2020-09-03/2020-09-06\ncitation-key: longgoldDGM2020",
+		"publisher-place": "Virtuelle Posterkonferenz",
+		"title": "Empirische Normwerte von Jugendlichen für psychosoziale Fragebogeninstrumente aus dem R-Paket psyquest mit Bedeutung für die musikalische Entwicklungsforschung",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Pausch",
+				"given": "Viola"
+			},
+			{
+				"family": "Frieler",
+				"given": "Klaus"
+			},
+			{
+				"family": "Müllensiefen",
+				"given": "Daniel"
+			},
+			{
+				"family": "Höger",
+				"given": "Frank"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/JX8QGMTW",
+		"type": "paper-conference",
+		"event-place": "Gloucestershire, UK",
+		"event-title": "Everyday is Spatial",
+		"license": "All rights reserved",
+		"note": "issued: 2023-06-15/2023-06-16\ngenre: Spatial audio presentation",
+		"publisher-place": "Gloucestershire, UK",
+		"title": "Effects of audio format, musical content, and their interaction on the immersive music experience",
+		"author": [
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Silas",
+				"given": "Sebastian"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/8REL3B8T",
+		"type": "paper-conference",
+		"event-place": "Gloucestershire, UK",
+		"event-title": "Everyday is Spatial",
+		"license": "All rights reserved",
+		"note": "issued: 2023-06-15/2023-06-16\ngenre: Presentation",
+		"publisher-place": "Gloucestershire, UK",
+		"title": "The measurement of immersive music experience: Development and application of the Immersive Music Experience Inventory (IMEI)",
+		"author": [
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Silas",
+				"given": "Sebastian"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/57NMGPMQ",
+		"type": "article-journal",
+		"abstract": "Music in three-dimensional (3D) audio formats is becoming increasingly important in many areas of the entertainment industry. However, little research has been done on the effects of various playback formats on the emotional listening experience. A study by Hahn made an important contribution to this topic. Based on a repeated measures design and using the Geneva Emotional Music Scale (GEMS), he conducted a listening experiment comparing music experiences resulting from presentations in stereo, 5.1 surround sound, and Auro-3D 9.1 (a 3D audio format containing a 5.1 surround sound layer and four height channels) reproduced by loudspeakers. Data were made available for a reanalysis. The main aims of this study were (1) analyzing listening differences between formats as measured by the original GEMS factors, (2) calculating effect sizes for a better estimation of sample sizes for future studies, and (3) making the data set available to the public. For the reanalysis, the ratings of participants were aggregated (mean values for the nine GEMS factors per audio format). There were significant differences between the formats as shown by a nonparametric MANOVA ( N = 52) with the GEMS factors as dependent variables and the three audio formats as a repeated measures factor. For the GEMS factor Transcendence, an ANOVA ( N = 52) revealed a large omnibus effect (η\n              p\n              2\n               = .206) for the three formats. Pairwise contrasts showed a significant increase (small to medium effect size) in emotional experiences for the Transcendence factor from stereo to surround sound (Cohen's d\n              Z\n               = 0.31), surround sound to 3D audio (Cohen's d\n              Z\n               = 0.45), and stereo to 3D audio (Cohen's d\n              Z \n              = 0.64).",
+		"container-title": "Music & Science",
+		"DOI": "10.1177/20592043231194751",
+		"ISSN": "2059-2043, 2059-2043",
+		"journalAbbreviation": "Music & Science",
+		"language": "en",
+		"license": "All rights reserved",
+		"source": "DOI.org (Crossref)",
+		"title": "Limited emotional value added by immersive 3D audio: A reanalysis",
+		"title-short": "Limited Emotional Value Added by Immersive 3D Audio",
+		"URL": "http://journals.sagepub.com/doi/10.1177/20592043231194751",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/YA6V5TIP",
+		"type": "paper-conference",
+		"event-place": "Stuttgart, Germany",
+		"event-title": "DAGA 2022: 48. Jahrestagung für Akustik",
+		"license": "All rights reserved",
+		"note": "genre: Poster presentation\nissued: 2022-03-21/2022-03-24",
+		"publisher-place": "Stuttgart, Germany",
+		"title": "Messung immersiven Musik-Erlebens: Das Immersive Audio Quality Inventory",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/QV3G7HNE",
+		"type": "paper-conference",
+		"event-place": "Hamburg, Germany",
+		"event-title": "DAGA: 49. Jahrestagung für Akustik",
+		"license": "All rights reserved",
+		"note": "issued: 2023-03-06/2023-03-09\ngenre: Presentation",
+		"publisher-place": "Hamburg, Germany",
+		"title": "On the relationship of perceived immersion to acoustic properties of surround sound music reproduction",
+		"author": [
+			{
+				"family": "Kiyan",
+				"given": "Roman"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Schössow",
+				"given": "Daphne"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/4K83XGKT",
+		"type": "paper-conference",
+		"event-place": "Hamburg, Germany",
+		"event-title": "DAGA: 49. Jahrestagung für Akustik",
+		"license": "All rights reserved",
+		"note": "issued: 2023-03-06/2023-03-09\ngenre: Presentation",
+		"publisher-place": "Hamburg, Germany",
+		"title": "Die Messung immersiven Musik-Erlebens: Das Immersive Music Experience Inventory (IMEI)",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Kiyan",
+				"given": "Roman"
+			},
+			{
+				"family": "Schössow",
+				"given": "Daphne"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/ETLNRKDN",
+		"type": "paper-conference",
+		"event-place": "Hamburg, Germany",
+		"event-title": "DAGA: 49. Jahrestagung für Akustik",
+		"license": "All rights reserved",
+		"note": "issued: 2023-03-06/2023-03-09\ngenre: Presentation",
+		"publisher-place": "Hamburg, Germany",
+		"title": "Audio-Experimente im Internet: Kontrolle über die Abhörbedingungen mittels des Headphone and Loudspeaker Tests (HALT)",
+		"author": [
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Manca",
+				"given": "Benedetto"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Platz",
+				"given": "Friedrich"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			}
+		]
+	}
+]
