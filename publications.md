@@ -25,6 +25,18 @@ Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, 951161.
 
 ## Conference Contributions
 
+Röhrs, D., Sander, K., & Kopiez, R. (2023, September 8–10). *Keine
+Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
+Studie von Starcke et al. (2022)* \[Poster presentation\]. 39.
+Jahrestagung der Deutschen Gesellschaft für Musikpsychologie, Hannover,
+Germany.
+
+Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
+*Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
+Musikstudierenden der HMTMH im Vergleich mit den KIs *ChatGPT* und
+*Google Magenta** \[Poster presentation\]. 39. Jahrestagung der
+Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
+
 Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
 15–16). *Effects of audio format, musical content, and their interaction
 on the immersive music experience* \[Spatial audio presentation\].
@@ -147,6 +159,28 @@ music-related questionnaires for data collection in R*.
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
+
+<div id="ref-http://zotero.org/users/9607203/items/2DEAPQVS"
+class="csl-entry">
+
+Röhrs, D., Sander, K., & Kopiez, R. (2023, September 8–10). *Keine
+Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
+Studie von Starcke et al. (2022)* \[Poster presentation\]. 39.
+Jahrestagung der Deutschen Gesellschaft für Musikpsychologie, Hannover,
+Germany.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/XESHI3UK"
+class="csl-entry">
+
+Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
+*Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
+Musikstudierenden der HMTMH im Vergleich mit den KIs *ChatGPT* und
+*Google Magenta** \[Poster presentation\]. 39. Jahrestagung der
+Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
+
+</div>
 
 <div id="ref-http://zotero.org/users/9607203/items/JX8QGMTW"
 class="csl-entry">

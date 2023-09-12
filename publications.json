@@ -958,5 +958,53 @@
 				"given": "Jürgen"
 			}
 		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/2DEAPQVS",
+		"type": "paper-conference",
+		"event-place": "Hannover, Germany",
+		"event-title": "39. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie",
+		"license": "All rights reserved",
+		"note": "issued: 2023-09-08/2023-09-10\ngenre: Poster presentation",
+		"publisher-place": "Hannover, Germany",
+		"title": "Keine Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der Studie von Starcke et al. (2022)",
+		"author": [
+			{
+				"family": "Röhrs",
+				"given": "Daniel"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/XESHI3UK",
+		"type": "paper-conference",
+		"event-place": "Hannover, Germany",
+		"event-title": "39. Jahrestagung der Deutschen Gesellschaft für Musikpsychologie",
+		"license": "All rights reserved",
+		"note": "issued: 2023-09-08/2023-09-10\ngenre: Poster presentation",
+		"publisher-place": "Hannover, Germany",
+		"title": "Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von Musikstudierenden der HMTMH im Vergleich mit den KIs <i>ChatGPT</i> und <i>Google Magenta</i>",
+		"author": [
+			{
+				"family": "Schreiber",
+				"given": "Anton"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			}
+		]
 	}
 ]
