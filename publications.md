@@ -33,8 +33,8 @@ Germany.
 
 Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
 *Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
-Musikstudierenden der HMTMH im Vergleich mit den KIs *ChatGPT* und
-*Google Magenta** \[Poster presentation\]. 39. Jahrestagung der
+Musikstudierenden der HMTMH im Vergleich mit den KIs* ChatGPT *und*
+Google Magenta \[Poster presentation\]. 39. Jahrestagung der
 Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
 
 Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
@@ -176,8 +176,8 @@ class="csl-entry">
 
 Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
 *Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
-Musikstudierenden der HMTMH im Vergleich mit den KIs *ChatGPT* und
-*Google Magenta** \[Poster presentation\]. 39. Jahrestagung der
+Musikstudierenden der HMTMH im Vergleich mit den KIs* ChatGPT *und*
+Google Magenta \[Poster presentation\]. 39. Jahrestagung der
 Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
 
 </div>
