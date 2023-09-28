@@ -142,10 +142,10 @@ Musikpsychologie, Virtuelle Posterkonferenz.
 
 ## Misc
 
-Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALTConfig* (Version 1.1)
+Frieler, K., Wycisk, Y., & Sander, K. (2023). *HALTConfig* (Version 1.2)
 \[Shiny app\]. <https://github.com/KilianSander/HALTConfig>
 
-Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.1)
+Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.2)
 \[R package\]. <https://github.com/KilianSander/HALT>
 
 Sander, K., & Wycisk, Y. (2022). ICMPC16/ESCOM11, 28.-31. Juli 2021,
@@ -250,6 +250,14 @@ Methods*. Advance online publication.
 
 </div>
 
+<div id="ref-http://zotero.org/users/9607203/items/KUWXLRGC"
+class="csl-entry">
+
+Frieler, K., Wycisk, Y., & Sander, K. (2023). *HALTConfig* (Version 1.2)
+\[Shiny app\]. <https://github.com/KilianSander/HALTConfig>
+
+</div>
+
 <div id="ref-http://zotero.org/users/9607203/items/8DYBX3SL"
 class="csl-entry">
 
@@ -328,16 +336,8 @@ Jahrestagung für Akustik, Stuttgart, Germany.
 <div id="ref-http://zotero.org/users/9607203/items/RDSHPMYD"
 class="csl-entry">
 
-Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.1)
+Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.2)
 \[R package\]. <https://github.com/KilianSander/HALT>
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/KUWXLRGC"
-class="csl-entry">
-
-Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALTConfig* (Version 1.1)
-\[Shiny app\]. <https://github.com/KilianSander/HALTConfig>
 
 </div>
 

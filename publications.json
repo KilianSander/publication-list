@@ -432,7 +432,7 @@
 		"note": "genre: R package\ncitation-key: HALTpackage",
 		"title": "HALT",
 		"URL": "https://github.com/KilianSander/HALT",
-		"version": "Version 0.12.1",
+		"version": "Version 0.12.2",
 		"author": [
 			{
 				"family": "Frieler",
@@ -451,8 +451,8 @@
 			"date-parts": [
 				[
 					"2022",
-					9,
-					14
+					12,
+					2
 				]
 			]
 		}
@@ -464,7 +464,7 @@
 		"note": "genre: Shiny app\ncitation-key: HALTConfig",
 		"title": "HALTConfig",
 		"URL": "https://github.com/KilianSander/HALTConfig",
-		"version": "Version 1.1",
+		"version": "Version 1.2",
 		"author": [
 			{
 				"family": "Frieler",
@@ -482,9 +482,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2022",
-					10,
-					2
+					"2023",
+					3,
+					1
 				]
 			]
 		}
