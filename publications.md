@@ -2,6 +2,11 @@
 
 ## Journal Articles
 
+Kiyan, R., Bergner, J., Preihs, S., Wycisk, Y., Schössow, D., Sander,
+K., Peissig, J., & Kopiez, R. (2023). Towards predicting immersion in
+surround sound music reproduction from sound field features. *Acta
+Acustica*, *7*, Article 45. <https://doi.org/10.1051/aacus/2023040>
+
 Sander, K., Wycisk, Y., & Kopiez, R. (2023). Limited emotional value
 added by immersive 3D audio: A reanalysis. *Music & Science*, *6*.
 <https://doi.org/10.1177/20592043231194751>
@@ -242,6 +247,16 @@ Headphone and Loudspeaker Test – Part II: A comprehensive playback
 device screening method in Internet experiments. *Behavior Research
 Methods*. Advance online publication.
 <https://doi.org/10.3758/s13428-022-02048-3>
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/8DYBX3SL"
+class="csl-entry">
+
+Kiyan, R., Bergner, J., Preihs, S., Wycisk, Y., Schössow, D., Sander,
+K., Peissig, J., & Kopiez, R. (2023). Towards predicting immersion in
+surround sound music reproduction from sound field features. *Acta
+Acustica*, *7*, Article 45. <https://doi.org/10.1051/aacus/2023040>
 
 </div>
 

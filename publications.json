@@ -1006,5 +1006,70 @@
 				"given": "Reinhard"
 			}
 		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/8DYBX3SL",
+		"type": "article-journal",
+		"abstract": "When evaluating surround sound loudspeaker reproduction, perceptual effects are commonly analyzed in relationship to different loudspeaker configurations. The presented work contributes to this by modeling perceptual effects based on acoustic properties of various reproduction formats. A model of immersion in music listening is derived from the results of an experimental study analyzing the psychological construct of immersive music experience. The proposed approach is evaluated with respect to the relationship between immersion ratings and sound field features obtained from re-recordings of the stimuli using a spherical microphone array at the listening position. Spatial sound field parameters such as inter-aural cross-correlation (IACC), diffuseness and directivity are found to be of particular relevance. Further, immersion is observed to reach a point of saturation with greater numbers of loudspeakers, which is confirmed to be predictable from the physical properties of the sound field. Although effects related to participants and musical pieces outweigh the impact of sound field features, the proposed approach is found to be suitable for predicting population-average ratings, i.e. immersion experienced by an average listener for unknown content. The proposed method could complement existing research on multichannel loudspeaker reproduction by establishing a more generalizable framework independent of particular speaker setups.",
+		"container-title": "Acta Acustica",
+		"DOI": "10.1051/aacus/2023040",
+		"ISSN": "2681-4617",
+		"journalAbbreviation": "Acta Acust.",
+		"license": "All rights reserved",
+		"page": "Article 45",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards predicting immersion in surround sound music reproduction from sound field features",
+		"URL": "https://acta-acustica.edpsciences.org/10.1051/aacus/2023040",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Kiyan",
+				"given": "Roman"
+			},
+			{
+				"family": "Bergner",
+				"given": "Jakob"
+			},
+			{
+				"family": "Preihs",
+				"given": "Stephan"
+			},
+			{
+				"family": "Wycisk",
+				"given": "Yves"
+			},
+			{
+				"family": "Schössow",
+				"given": "Daphne"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Peissig",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
 	}
 ]
