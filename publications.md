@@ -1,6 +1,12 @@
 # Publications
 
+
 ## Journal Articles
+
+Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2024). The
+Headphone and Loudspeaker Test – Part II: A comprehensive playback
+device screening method in Internet experiments. *Behavior Research
+Methods*, *56*, 362–378. <https://doi.org/10.3758/s13428-022-02048-3>
 
 Kiyan, R., Bergner, J., Preihs, S., Wycisk, Y., Schössow, D., Sander,
 K., Peissig, J., & Kopiez, R. (2023). Towards predicting immersion in
@@ -10,12 +16,6 @@ Acustica*, *7*, Article 45. <https://doi.org/10.1051/aacus/2023040>
 Sander, K., Wycisk, Y., & Kopiez, R. (2023). Limited emotional value
 added by immersive 3D audio: A reanalysis. *Music & Science*, *6*.
 <https://doi.org/10.1177/20592043231194751>
-
-Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The
-Headphone and Loudspeaker Test – Part II: A comprehensive playback
-device screening method in Internet experiments. *Behavior Research
-Methods*. Advance online publication.
-<https://doi.org/10.3758/s13428-022-02048-3>
 
 Wycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig,
 J., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part I:
@@ -163,7 +163,17 @@ music-related questionnaires for data collection in R*.
 ## All Publications
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
+
+<div id="ref-http://zotero.org/users/9607203/items/UWG5A3ZX"
+class="csl-entry">
+
+Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2024). The
+Headphone and Loudspeaker Test – Part II: A comprehensive playback
+device screening method in Internet experiments. *Behavior Research
+Methods*, *56*, 362–378. <https://doi.org/10.3758/s13428-022-02048-3>
+
+</div>
 
 <div id="ref-http://zotero.org/users/9607203/items/2DEAPQVS"
 class="csl-entry">
@@ -236,17 +246,6 @@ Preihs, S., & Peissig, J. (2023, March 6–9). *Audio-Experimente im
 Internet: Kontrolle über die Abhörbedingungen mittels des Headphone and
 Loudspeaker Tests (HALT)* \[Presentation\]. DAGA: 49. Jahrestagung für
 Akustik, Hamburg, Germany.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/UWG5A3ZX"
-class="csl-entry">
-
-Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The
-Headphone and Loudspeaker Test – Part II: A comprehensive playback
-device screening method in Internet experiments. *Behavior Research
-Methods*. Advance online publication.
-<https://doi.org/10.3758/s13428-022-02048-3>
 
 </div>
 
