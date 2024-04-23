@@ -18,6 +18,10 @@ format: gfm
 @http://zotero.org/users/9607203/items/UHKPT3LL
 
 ## Conference Contributions
+@http://zotero.org/users/9607203/items/TZEAU6CA
+
+@http://zotero.org/users/9607203/items/ZVQ52XH5
+
 @http://zotero.org/users/9607203/items/2DEAPQVS
 
 @http://zotero.org/users/9607203/items/XESHI3UK

@@ -30,6 +30,18 @@ Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, 951161.
 
 ## Conference Contributions
 
+Kopiez, R., Sander, K., Schulz, F., & Düvel, N. (2024, February 29–March
+1). *„Mensch oder Maschine?“ – Ein Experiment zur Wahrnehmung
+kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*. Treffen der
+Fachgruppe Systematische Musikwissenschaft in der Gesellschaft für
+Musikforschung, Staatliches Institut für Musikforschung PK Berlin.
+
+Sander, K., Röhrs, D., & Kopiez, R. (2024, February 23–24). *Keine
+Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
+Studie von Starcke et al. (2022)* \[Poster presentation\]. 22. Smposium
+der Deutschen Gesellschaft für Musikphysiologie und Musikermedizin,
+Hannover, Germany.
+
 Röhrs, D., Sander, K., & Kopiez, R. (2023, September 8–10). *Keine
 Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
 Studie von Starcke et al. (2022)* \[Poster presentation\]. 39.
@@ -39,8 +51,8 @@ Germany.
 Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
 *Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
 Musikstudierenden der HMTMH im Vergleich mit den KIs* ChatGPT *und*
-Google Magenta \[Poster presentation\]. 39. Jahrestagung der
-Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
+Google Magenta \[Poster presentation\]. 39. Jahrestagung der Deutschen
+Gesellschaft für Musikpsychologie, Hannover, Germany.
 
 Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
 15–16). *Effects of audio format, musical content, and their interaction
@@ -165,6 +177,28 @@ music-related questionnaires for data collection in R*.
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0" line-spacing="2">
 
+<div id="ref-http://zotero.org/users/9607203/items/ZVQ52XH5"
+class="csl-entry">
+
+Sander, K., Röhrs, D., & Kopiez, R. (2024, February 23–24). *Keine
+Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
+Studie von Starcke et al. (2022)* \[Poster presentation\]. 22. Smposium
+der Deutschen Gesellschaft für Musikphysiologie und Musikermedizin,
+Hannover, Germany.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/TZEAU6CA"
+class="csl-entry">
+
+Kopiez, R., Sander, K., Schulz, F., & Düvel, N. (2024, February 29–March
+1). *„Mensch oder Maschine?“ – Ein Experiment zur Wahrnehmung
+kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*. Treffen der
+Fachgruppe Systematische Musikwissenschaft in der Gesellschaft für
+Musikforschung, Staatliches Institut für Musikforschung PK Berlin.
+
+</div>
+
 <div id="ref-http://zotero.org/users/9607203/items/UWG5A3ZX"
 class="csl-entry">
 
@@ -172,48 +206,6 @@ Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2024). The
 Headphone and Loudspeaker Test – Part II: A comprehensive playback
 device screening method in Internet experiments. *Behavior Research
 Methods*, *56*, 362–378. <https://doi.org/10.3758/s13428-022-02048-3>
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/2DEAPQVS"
-class="csl-entry">
-
-Röhrs, D., Sander, K., & Kopiez, R. (2023, September 8–10). *Keine
-Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
-Studie von Starcke et al. (2022)* \[Poster presentation\]. 39.
-Jahrestagung der Deutschen Gesellschaft für Musikpsychologie, Hannover,
-Germany.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/XESHI3UK"
-class="csl-entry">
-
-Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
-*Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
-Musikstudierenden der HMTMH im Vergleich mit den KIs* ChatGPT *und*
-Google Magenta \[Poster presentation\]. 39. Jahrestagung der
-Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/JX8QGMTW"
-class="csl-entry">
-
-Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
-15–16). *Effects of audio format, musical content, and their interaction
-on the immersive music experience* \[Spatial audio presentation\].
-Everyday is Spatial, Gloucestershire, UK.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/8REL3B8T"
-class="csl-entry">
-
-Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
-15–16). *The measurement of immersive music experience: Development and
-application of the Immersive Music Experience Inventory (IMEI)*
-\[Presentation\]. Everyday is Spatial, Gloucestershire, UK.
 
 </div>
 
@@ -249,11 +241,45 @@ Akustik, Hamburg, Germany.
 
 </div>
 
-<div id="ref-http://zotero.org/users/9607203/items/KUWXLRGC"
+<div id="ref-http://zotero.org/users/9607203/items/JX8QGMTW"
 class="csl-entry">
 
-Frieler, K., Wycisk, Y., & Sander, K. (2023). *HALTConfig* (Version 1.2)
-\[Shiny app\]. <https://github.com/KilianSander/HALTConfig>
+Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
+15–16). *Effects of audio format, musical content, and their interaction
+on the immersive music experience* \[Spatial audio presentation\].
+Everyday is Spatial, Gloucestershire, UK.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/8REL3B8T"
+class="csl-entry">
+
+Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
+15–16). *The measurement of immersive music experience: Development and
+application of the Immersive Music Experience Inventory (IMEI)*
+\[Presentation\]. Everyday is Spatial, Gloucestershire, UK.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/2DEAPQVS"
+class="csl-entry">
+
+Röhrs, D., Sander, K., & Kopiez, R. (2023, September 8–10). *Keine
+Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
+Studie von Starcke et al. (2022)* \[Poster presentation\]. 39.
+Jahrestagung der Deutschen Gesellschaft für Musikpsychologie, Hannover,
+Germany.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/XESHI3UK"
+class="csl-entry">
+
+Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
+*Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
+Musikstudierenden der HMTMH im Vergleich mit den KIs* ChatGPT *und*
+Google Magenta** \[Poster presentation\]. 39. Jahrestagung der Deutschen
+Gesellschaft für Musikpsychologie, Hannover, Germany.
 
 </div>
 
@@ -287,6 +313,34 @@ internet experiments. *Behavior Research Methods*, *55*, 1094–1107.
 
 </div>
 
+<div id="ref-http://zotero.org/users/9607203/items/KUWXLRGC"
+class="csl-entry">
+
+Frieler, K., Wycisk, Y., & Sander, K. (2023). *HALTConfig* (Version 1.2)
+\[Shiny app\]. <https://github.com/KilianSander/HALTConfig>
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/YA6V5TIP"
+class="csl-entry">
+
+Wycisk, Y., Sander, K., Kopiez, R., Platz, F., Peissig, J., & Preihs, S.
+(2022, March 21–24). *Messung immersiven Musik-Erlebens: Das Immersive
+Audio Quality Inventory* \[Poster presentation\]. DAGA 2022: 48.
+Jahrestagung für Akustik, Stuttgart, Germany.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/TH7ARDYL"
+class="csl-entry">
+
+Wycisk, Y., & Sander, K. (2022, July 28–30). The Headphone and
+Loudspeaker Test. In R. Hake, *Special: Online hearing experiments*
+\[Conference session\]. Hearing4all: Joint Research Academy 10th Annual
+Summer School, Visselhövede, Germany.
+
+</div>
+
 <div id="ref-http://zotero.org/users/9607203/items/H88ZTPEQ"
 class="csl-entry">
 
@@ -312,34 +366,6 @@ Germany.
 
 </div>
 
-<div id="ref-http://zotero.org/users/9607203/items/TH7ARDYL"
-class="csl-entry">
-
-Wycisk, Y., & Sander, K. (2022, July 28–30). The Headphone and
-Loudspeaker Test. In R. Hake, *Special: Online hearing experiments*
-\[Conference session\]. Hearing4all: Joint Research Academy 10th Annual
-Summer School, Visselhövede, Germany.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/YA6V5TIP"
-class="csl-entry">
-
-Wycisk, Y., Sander, K., Kopiez, R., Platz, F., Peissig, J., & Preihs, S.
-(2022, March 21–24). *Messung immersiven Musik-Erlebens: Das Immersive
-Audio Quality Inventory* \[Poster presentation\]. DAGA 2022: 48.
-Jahrestagung für Akustik, Stuttgart, Germany.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/RDSHPMYD"
-class="csl-entry">
-
-Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.2)
-\[R package\]. <https://github.com/KilianSander/HALT>
-
-</div>
-
 <div id="ref-http://zotero.org/users/9607203/items/SGMKM3J4"
 class="csl-entry">
 
@@ -359,36 +385,11 @@ Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, 951161.
 
 </div>
 
-<div id="ref-http://zotero.org/users/9607203/items/FDZDS5Q5"
+<div id="ref-http://zotero.org/users/9607203/items/RDSHPMYD"
 class="csl-entry">
 
-Kopiez, R., Sander, K., Wycisk, Y., Platz, F., Bergner, J., Preihs, S.,
-& Peissig, J. (2021, November 3–6). *The measurement of 3D-audio
-experience: The „Immersive Audio Quality Inventory"* \[Presentation\].
-31. Tonmeistertagung, Düsseldorf, Germany.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/2JTL9CLX"
-class="csl-entry">
-
-Sander, K., Wycisk, Y., Kopiez, R., Platz, F., Bergner, J., Peissig, J.,
-& Preihs, S. (2021, September 2–3). *Messung immersiven Musik-Erlebens:
-Das Immersive Audio Quality Inventory* \[Poster presentation\]. 37.
-Jahrestagung der Deutschen Gesellschaft für Musikpsychologie “Musik und
-soziale Verbundenheit,” Virtuelle Konferenz.
-
-</div>
-
-<div id="ref-http://zotero.org/users/9607203/items/XGHYL46K"
-class="csl-entry">
-
-Wycisk, Y., Kopiez, R., Sander, K., Manca, B., Bergner, J., Preihs, S.,
-Peissig, J., & Platz, F. (2021, September 2–3). *Der Headphone and
-Loudspeaker Test (HALT): Vorschläge für die kontrollierte Verwendung von
-Wiedergabegeräten in Internet-Experimenten* \[Poster presentation\]. 37.
-Jahrestagung der Deutschen Gesellschaft für Musikpsychologie “Musik und
-soziale Verbundenheit,” Virtuelle Posterkonferenz.
+Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.2)
+\[R package\]. <https://github.com/KilianSander/HALT>
 
 </div>
 
@@ -425,6 +426,39 @@ HALT: Suggestions for the controlled use of playback devices in internet
 experiments* \[Presentation\]. 16th International Conference on Music
 Perception and Cognition/11th Conference of the European Society for the
 Cognitive Sciences of Music, Fully virtual conferencing.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/2JTL9CLX"
+class="csl-entry">
+
+Sander, K., Wycisk, Y., Kopiez, R., Platz, F., Bergner, J., Peissig, J.,
+& Preihs, S. (2021, September 2–3). *Messung immersiven Musik-Erlebens:
+Das Immersive Audio Quality Inventory* \[Poster presentation\]. 37.
+Jahrestagung der Deutschen Gesellschaft für Musikpsychologie “Musik und
+soziale Verbundenheit,” Virtuelle Konferenz.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/XGHYL46K"
+class="csl-entry">
+
+Wycisk, Y., Kopiez, R., Sander, K., Manca, B., Bergner, J., Preihs, S.,
+Peissig, J., & Platz, F. (2021, September 2–3). *Der Headphone and
+Loudspeaker Test (HALT): Vorschläge für die kontrollierte Verwendung von
+Wiedergabegeräten in Internet-Experimenten* \[Poster presentation\]. 37.
+Jahrestagung der Deutschen Gesellschaft für Musikpsychologie “Musik und
+soziale Verbundenheit,” Virtuelle Posterkonferenz.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/FDZDS5Q5"
+class="csl-entry">
+
+Kopiez, R., Sander, K., Wycisk, Y., Platz, F., Bergner, J., Preihs, S.,
+& Peissig, J. (2021, November 3–6). *The measurement of 3D-audio
+experience: The „Immersive Audio Quality Inventory"* \[Presentation\].
+31. Tonmeistertagung, Düsseldorf, Germany.
 
 </div>
 

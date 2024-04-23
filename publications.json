@@ -1,11 +1,63 @@
 [
 	{
+		"id": "http://zotero.org/users/9607203/items/TZEAU6CA",
+		"type": "paper-conference",
+		"event-place": "Staatliches Institut für Musikforschung PK Berlin",
+		"event-title": "Treffen der Fachgruppe Systematische Musikwissenschaft in der Gesellschaft für Musikforschung",
+		"license": "All rights reserved",
+		"note": "issued: 2024-02-29/2024-03-01",
+		"publisher-place": "Staatliches Institut für Musikforschung PK Berlin",
+		"title": "„Mensch oder Maschine?“ – Ein Experiment zur Wahrnehmung kompositorischer (Ko-)Kreativität Künstlicher Intelligenz",
+		"author": [
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			},
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Schulz",
+				"given": "Florian"
+			},
+			{
+				"family": "Düvel",
+				"given": "Nina"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9607203/items/ZVQ52XH5",
+		"type": "paper-conference",
+		"event-place": "Hannover, Germany",
+		"event-title": "22. Smposium der Deutschen Gesellschaft für Musikphysiologie und Musikermedizin",
+		"license": "All rights reserved",
+		"note": "issued: 2024-02-23/2024-02-24\ngenre: Poster presentation",
+		"publisher-place": "Hannover, Germany",
+		"title": "Keine Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der Studie von Starcke et al. (2022)",
+		"author": [
+			{
+				"family": "Sander",
+				"given": "Kilian"
+			},
+			{
+				"family": "Röhrs",
+				"given": "Daniel"
+			},
+			{
+				"family": "Kopiez",
+				"given": "Reinhard"
+			}
+		]
+	},
+	{
 		"id": "http://zotero.org/users/9607203/items/UWG5A3ZX",
 		"type": "article-journal",
 		"container-title": "Behavior Research Methods",
 		"DOI": "10.3758/s13428-022-02048-3",
 		"license": "All rights reserved",
-		"note": "citation-key: HALTpart2\nstatus: Advance online publication",
+		"note": "citation-key: HALTpart2",
 		"title": "The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments",
 		"volume": "56",
 		"page": "362-378",
@@ -993,7 +1045,7 @@
 		"license": "All rights reserved",
 		"note": "issued: 2023-09-08/2023-09-10\ngenre: Poster presentation",
 		"publisher-place": "Hannover, Germany",
-		"title": "Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von Musikstudierenden der HMTMH im Vergleich mit den KIs <i>ChatGPT</i> und <i>Google Magenta</i>",
+		"title": "Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von Musikstudierenden der HMTMH im Vergleich mit den KIs<i> ChatGPT </i>und<i> Google Magenta</i>",
 		"author": [
 			{
 				"family": "Schreiber",
