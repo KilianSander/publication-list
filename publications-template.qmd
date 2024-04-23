@@ -1,0 +1,72 @@
+---
+title: "Publications"
+suppress_bibliography: TRUE
+bibliography: publications.json
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa-cv.csl"
+format: gfm
+---
+
+## Journal Articles
+@http://zotero.org/users/9607203/items/UWG5A3ZX
+
+@http://zotero.org/users/9607203/items/8DYBX3SL
+
+@http://zotero.org/users/9607203/items/57NMGPMQ
+
+@http://zotero.org/users/9607203/items/CZ6ZCNGC
+
+@http://zotero.org/users/9607203/items/UHKPT3LL
+
+## Conference Contributions
+@http://zotero.org/users/9607203/items/TZEAU6CA
+
+@http://zotero.org/users/9607203/items/ZVQ52XH5
+
+@http://zotero.org/users/9607203/items/2DEAPQVS
+
+@http://zotero.org/users/9607203/items/XESHI3UK
+
+@http://zotero.org/users/9607203/items/JX8QGMTW
+
+@http://zotero.org/users/9607203/items/8REL3B8T
+
+@http://zotero.org/users/9607203/items/4K83XGKT
+
+@http://zotero.org/users/9607203/items/ETLNRKDN
+
+@http://zotero.org/users/9607203/items/QV3G7HNE
+
+@http://zotero.org/users/9607203/items/V6FFGKZV
+
+@http://zotero.org/users/9607203/items/H88ZTPEQ
+
+@http://zotero.org/users/9607203/items/TH7ARDYL
+
+@http://zotero.org/users/9607203/items/YA6V5TIP
+
+@http://zotero.org/users/9607203/items/FDZDS5Q5
+
+@http://zotero.org/users/9607203/items/XGHYL46K
+
+@http://zotero.org/users/9607203/items/2JTL9CLX
+
+@http://zotero.org/users/9607203/items/2YGPEMYU
+
+@http://zotero.org/users/9607203/items/N3CINEYA
+
+@http://zotero.org/users/9607203/items/NXDIX2ET
+
+@http://zotero.org/users/9607203/items/29WDUX7S
+
+## Misc
+@http://zotero.org/users/9607203/items/KUWXLRGC
+
+@http://zotero.org/users/9607203/items/RDSHPMYD
+
+@http://zotero.org/users/9607203/items/SGMKM3J4
+
+@http://zotero.org/users/9607203/items/4Z358YM7
+
+@http://zotero.org/users/9607203/items/V66GKX49
+
+## All Publications
