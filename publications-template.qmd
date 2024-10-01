@@ -7,6 +7,10 @@ format: gfm
 ---
 
 ## Journal Articles
+@http://zotero.org/users/9607203/items/QXIEQ75Z
+
+@http://zotero.org/users/9607203/items/UAIF3B6V
+
 @http://zotero.org/users/9607203/items/UWG5A3ZX
 
 @http://zotero.org/users/9607203/items/8DYBX3SL

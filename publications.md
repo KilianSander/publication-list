@@ -3,6 +3,17 @@
 
 ## Journal Articles
 
+Schäfer, N., Kopiez, R., & Sander, K. (2024). Anstrengungsbereitschaft
+beim Singen im Musikunterricht: Eine empirische Untersuchung möglicher
+Einflussfaktoren. *Jahrbuch Musikpsychologie*, Article e197.
+<https://doi.org/10.5964/jbdgm.197>
+
+Schreiber, A., Sander, K., Kopiez, R., & Thöne, R. (2024). The creative
+performance of the AI agents ChatGPT and Google Magenta compared to
+human-based solutions in a standardized melody continuation task.
+*Jahrbuch Musikpsychologie*, *32*, Article e195.
+<https://doi.org/10.5964/jbdgm.195>
+
 Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2024). The
 Headphone and Loudspeaker Test – Part II: A comprehensive playback
 device screening method in Internet experiments. *Behavior Research
@@ -196,6 +207,27 @@ Kopiez, R., Sander, K., Schulz, F., & Düvel, N. (2024, February 29–March
 kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*. Treffen der
 Fachgruppe Systematische Musikwissenschaft in der Gesellschaft für
 Musikforschung, Staatliches Institut für Musikforschung PK Berlin.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/QXIEQ75Z"
+class="csl-entry">
+
+Schäfer, N., Kopiez, R., & Sander, K. (2024). Anstrengungsbereitschaft
+beim Singen im Musikunterricht: Eine empirische Untersuchung möglicher
+Einflussfaktoren. *Jahrbuch Musikpsychologie*, Article e197.
+<https://doi.org/10.5964/jbdgm.197>
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/UAIF3B6V"
+class="csl-entry">
+
+Schreiber, A., Sander, K., Kopiez, R., & Thöne, R. (2024). The creative
+performance of the AI agents ChatGPT and Google Magenta compared to
+human-based solutions in a standardized melody continuation task.
+*Jahrbuch Musikpsychologie*, *32*, Article e195.
+<https://doi.org/10.5964/jbdgm.195>
 
 </div>
 
