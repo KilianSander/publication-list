@@ -41,6 +41,24 @@ Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, 951161.
 
 ## Conference Contributions
 
+Sander, K., Gutzmann, G., & Kopiez, R. (2024, September 6–8). *Sehen
+statt Hören beim Bewerten von Musikdarbietungen? Konzeptionelle
+Replikation der Hypothese der visuellen Dominanz von Tsay (2013)*
+\[Poster presentation\]. 40. Jahrestagung der Deutschen Gesellschaft für
+Musikpsychologie, München.
+
+Meier, N., Schreiber, A., Sander, K., Kopiez, R., & Thöne (2024,
+September 6–8). *Melodiefortsetzung mit KI: Die kreativen Leistungen
+verschiedener Sprachmodelle im Vergleich zu Musikstudierenden* \[Poster
+presentation\]. 40. Jahrestagung der Deutschen Gesellschaft für
+Musikpsychologie, München.
+
+Sander, K., Gutzmann, G., & Kopiez, R. (2024, July 3–6). *Sight over
+sound in judgements of audio-visual music performances? Evidence from a
+conceptual replication of Tsay’s (2013) visual dominance hypothesis*
+\[Presentation\]. 12th Triennial Conference of the European Society for
+the Cognitive Sciences of Music, York, UK.
+
 Kopiez, R., Sander, K., Schulz, F., & Düvel, N. (2024, February 29–March
 1). *„Mensch oder Maschine?“ – Ein Experiment zur Wahrnehmung
 kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*. Treffen der
@@ -207,6 +225,39 @@ Kopiez, R., Sander, K., Schulz, F., & Düvel, N. (2024, February 29–March
 kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*. Treffen der
 Fachgruppe Systematische Musikwissenschaft in der Gesellschaft für
 Musikforschung, Staatliches Institut für Musikforschung PK Berlin.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/NLD84ZXC"
+class="csl-entry">
+
+Sander, K., Gutzmann, G., & Kopiez, R. (2024, July 3–6). *Sight over
+sound in judgements of audio-visual music performances? Evidence from a
+conceptual replication of Tsay’s (2013) visual dominance hypothesis*
+\[Presentation\]. 12th Triennial Conference of the European Society for
+the Cognitive Sciences of Music, York, UK.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/28KR2LEJ"
+class="csl-entry">
+
+Meier, N., Schreiber, A., Sander, K., Kopiez, R., & Thöne. (2024,
+September 6–8). *Melodiefortsetzung mit KI: Die kreativen Leistungen
+verschiedener Sprachmodelle im Vergleich zu Musikstudierenden* \[Poster
+presentation\]. 40. Jahrestagung der Deutschen Gesellschaft für
+Musikpsychologie, München.
+
+</div>
+
+<div id="ref-http://zotero.org/users/9607203/items/UHZZA5ET"
+class="csl-entry">
+
+Sander, K., Gutzmann, G., & Kopiez, R. (2024, September 6–8). *Sehen
+statt Hören beim Bewerten von Musikdarbietungen? Konzeptionelle
+Replikation der Hypothese der visuellen Dominanz von Tsay (2013)*
+\[Poster presentation\]. 40. Jahrestagung der Deutschen Gesellschaft für
+Musikpsychologie, München.
 
 </div>
 

@@ -22,6 +22,12 @@ format: gfm
 @http://zotero.org/users/9607203/items/UHKPT3LL
 
 ## Conference Contributions
+@http://zotero.org/users/9607203/items/UHZZA5ET
+
+@http://zotero.org/users/9607203/items/28KR2LEJ
+
+@http://zotero.org/users/9607203/items/NLD84ZXC
+
 @http://zotero.org/users/9607203/items/TZEAU6CA
 
 @http://zotero.org/users/9607203/items/ZVQ52XH5
