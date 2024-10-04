@@ -131,12 +131,19 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/9607203/items/QXIEQ75Z",
+		"id": "schaferAnstrengungsbereitschaftBeimSingen2024",
 		"type": "article-journal",
+		"abstract": "Das Singen im Musikunterricht ist für den Schulalltag von zentraler Bedeutung. Die vorliegende Studie untersucht den Einfluss ausgewählter Faktoren auf die Anstrengungsbereitschaft von Schülerinnen und Schülern beim Singen im Musikunterricht. Die untersuchten Faktoren sind: (a) die Bedürfnisse nach Kompetenz, Autonomie und sozialer Eingebundenheit gemäß der Selbstbestimmungstheorie; (b) die Beziehung zur Lehrkraft; (c) die musikalische Erfahrenheit der Schülerinnen und Schüler; (d) das Wohlbefinden beim Singen; (e) die Häufigkeit des Singens im Musikunterricht; (f) das Gefallen am Singen in der Freizeit; (g) die Mitgliedschaft in einem Chor; (h) das Gefallen am Liedrepertoire des Musikunterrichts und (i) das Alter und das Geschlecht der Kinder. Um mögliche Zusammenhänge zwischen diesen Prädiktorvariablen und der Anstrengungsbereitschaft zu untersuchen, wurde ein Fragebogen von Schülerinnen und Schülern (\n              N\n              = 225) im Alter zwischen 10 und 13 Jahren (\n              M\n              = 11,38;\n              SD\n              = 0,70) ausgefüllt. Unterschiedliche statistische Verfahren kommen zu dem übereinstimmenden Ergebnis, dass das Gefallen am Liedrepertoire und das Wohlbefinden beim Singen die wichtigsten Prädiktoren für die Anstrengungsbereitschaft sind. Aber auch Kompetenz, Autonomie, die Beziehung zur Lehrkraft und die musikalische Erfahrenheit haben eine sichtbare Auswirkung. Von diesen für die Anstrengungsbereitschaft relevanten Faktoren können alle bis auf das Wohlbefinden beim Singen von Lehrkräften beeinflusst und so in der Praxis genutzt werden.",
 		"container-title": "Jahrbuch Musikpsychologie",
 		"DOI": "10.5964/jbdgm.197",
+		"ISSN": "2569-5665",
+		"journalAbbreviation": "Jahrb. Musikpsychol.",
 		"note": "number: e197",
+		"source": "DOI.org (Crossref)",
 		"title": "Anstrengungsbereitschaft beim Singen im Musikunterricht: Eine empirische Untersuchung möglicher Einflussfaktoren",
+		"title-short": "Anstrengungsbereitschaft beim Singen im Musikunterricht",
+		"URL": "https://jbdgm.psychopen.eu/index.php/jbdgm/article/view/197",
+		"volume": "32",
 		"author": [
 			{
 				"family": "Schäfer",
@@ -151,10 +158,21 @@
 				"given": "Kilian"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					4
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2024"
+					"2024",
+					10,
+					1
 				]
 			]
 		}

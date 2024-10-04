@@ -1,13 +1,13 @@
 ---
 title: "Publications"
-suppress_bibliography: TRUE
 bibliography: publications.json
+suppress-bibliography: true
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa-cv.csl"
 format: gfm
 ---
 
 ## Journal Articles
-@http://zotero.org/users/9607203/items/QXIEQ75Z
+@schaferAnstrengungsbereitschaftBeimSingen2024
 
 @http://zotero.org/users/9607203/items/UAIF3B6V
 
@@ -79,4 +79,3 @@ format: gfm
 
 @http://zotero.org/users/9607203/items/V66GKX49
 
-## All Publications

@@ -9,7 +9,7 @@ pub_file <-
     file = "publications.md"
   )
 last_line <-
-  which(pub_file == "## All Publications") - 1
+  length(pub_file)
 pub_file <-
   pub_file[3:last_line]  %>%
   stringr::str_replace(

@@ -12,7 +12,7 @@ format:
 
 Schäfer, N., Kopiez, R., & Sander, K. (2024). Anstrengungsbereitschaft
 beim Singen im Musikunterricht: Eine empirische Untersuchung möglicher
-Einflussfaktoren. *Jahrbuch Musikpsychologie*, Article e197.
+Einflussfaktoren. *Jahrbuch Musikpsychologie*, *32*, Article e197.
 <https://doi.org/10.5964/jbdgm.197>
 
 Schreiber, A., Sander, K., Kopiez, R., & Thöne, R. (2024). The creative
@@ -207,7 +207,6 @@ Sander, K., Pausch, V., Müllensiefen, D., Höger, F., & Frieler, K.
 (2020). *Introduction to psyquest -- Deploying psychosocial and
 music-related questionnaires for data collection in R*.
 <http://media.gold-msi.org/misc/psyquest_introduction_v17.pdf>
-
 
 ```{r time}
 #| echo: false
