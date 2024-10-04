@@ -36,8 +36,8 @@ internet experiments. *Behavior Research Methods*, *55*, 1094–1107.
 
 Wycisk, Y., Sander, K., Kopiez, R., Platz, F., Preihs, S., & Peissig, J.
 (2022). Wrapped into sound: Development of the Immersive Music
-Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, 951161.
-<https://doi.org/10.3389/fpsyg.2022.951161>
+Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, Article
+951161. <https://doi.org/10.3389/fpsyg.2022.951161>
 
 ## Conference Contributions
 
@@ -61,9 +61,10 @@ the Cognitive Sciences of Music, York, UK.
 
 Kopiez, R., Sander, K., Schulz, F., & Düvel, N. (2024, February 29–March
 1). *„Mensch oder Maschine?“ – Ein Experiment zur Wahrnehmung
-kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*. Treffen der
-Fachgruppe Systematische Musikwissenschaft in der Gesellschaft für
-Musikforschung, Staatliches Institut für Musikforschung PK Berlin.
+kompositorischer (Ko-)Kreativität Künstlicher Intelligenz*
+\[Presentation\]. Treffen der Fachgruppe Systematische Musikwissenschaft
+in der Gesellschaft für Musikforschung, Staatliches Institut für
+Musikforschung PK Berlin.
 
 Sander, K., Röhrs, D., & Kopiez, R. (2024, February 23–24). *Keine
 Auswirkungen der Musikabstinenz auf die Gesundheit: Eine Replikation der
@@ -187,14 +188,14 @@ Frieler, K., Wycisk, Y., & Sander, K. (2023). *HALTConfig* (Version 1.2)
 \[Shiny app\]. <https://github.com/KilianSander/HALTConfig>
 
 Frieler, K., Wycisk, Y., & Sander, K. (2022). *HALT* (Version 0.12.2)
-\[R package\]. <https://github.com/KilianSander/HALT>
+\[R-package\]. <https://github.com/KilianSander/HALT>
 
 Sander, K., & Wycisk, Y. (2022). ICMPC16/ESCOM11, 28.-31. Juli 2021,
 Fully virtual Conferencing \[Tagungsbericht\]. *Jahrbuch
 Musikpsychologie*, *30*, 239–241.
 
-Sander, K., & Labonde, P. (2021). *groovescale* (Version 0.9.0) \[R
-package\]. <https://github.com/KilianSander/groovescale>
+Sander, K., & Labonde, P. (2021). *groovescale* (Version 0.9.0)
+\[R-package\]. <https://github.com/KilianSander/groovescale>
 
 Sander, K., Pausch, V., Müllensiefen, D., Höger, F., & Frieler, K.
 (2020). *Introduction to psyquest -- Deploying psychosocial and
