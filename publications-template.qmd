@@ -7,75 +7,75 @@ format: gfm
 ---
 
 ## Journal Articles
-@schaferAnstrengungsbereitschaftBeimSingen2024
+@schaeferAnstrengungsbereitschaftBeimSingen2024
 
-@http://zotero.org/users/9607203/items/UAIF3B6V
+@schreiberCreativePerformanceAI2024
 
-@http://zotero.org/users/9607203/items/UWG5A3ZX
+@HALTpart2
 
-@http://zotero.org/users/9607203/items/8DYBX3SL
+@kiyanPredictingImmersionSurround2023
 
-@http://zotero.org/users/9607203/items/57NMGPMQ
+@sanderLimitedEmotionalValue2023
 
-@http://zotero.org/users/9607203/items/CZ6ZCNGC
+@HALTpart1
 
-@http://zotero.org/users/9607203/items/UHKPT3LL
+@imei
 
 ## Conference Contributions
-@http://zotero.org/users/9607203/items/UHZZA5ET
+@sanderSehenStattHoeren2024
 
-@http://zotero.org/users/9607203/items/28KR2LEJ
+@meierMelodiefortsetzungMitKI2024
 
-@http://zotero.org/users/9607203/items/NLD84ZXC
+@sanderSightSoundJudgements2024
 
-@http://zotero.org/users/9607203/items/TZEAU6CA
+@kopiezMenschOderMaschine2024
 
-@http://zotero.org/users/9607203/items/ZVQ52XH5
+@sanderKeineAuswirkungenMusikabstinenz2024
 
-@http://zotero.org/users/9607203/items/2DEAPQVS
+@rohrsKeineAuswirkungenMusikabstinenz2023
 
-@http://zotero.org/users/9607203/items/XESHI3UK
+@schreiberKomponierenMitKunstlicher2023
 
-@http://zotero.org/users/9607203/items/JX8QGMTW
+@kopiezEffectsAudioFormat2023
 
-@http://zotero.org/users/9607203/items/8REL3B8T
+@kopiezMeasurementImmersiveMusic2023
 
-@http://zotero.org/users/9607203/items/4K83XGKT
+@sanderMessungImmersivenMusikErlebens2023
 
-@http://zotero.org/users/9607203/items/ETLNRKDN
+@wyciskAudioExperimenteImInternet2023
 
-@http://zotero.org/users/9607203/items/QV3G7HNE
+@kiyanRelationshipPerceivedImmersion2023
 
-@http://zotero.org/users/9607203/items/V6FFGKZV
+@hahn_reanalysis_dgm2022
 
-@http://zotero.org/users/9607203/items/H88ZTPEQ
+@wagner3.0DGM2022
 
-@http://zotero.org/users/9607203/items/TH7ARDYL
+@HALTpresentation2022
 
-@http://zotero.org/users/9607203/items/YA6V5TIP
+@wyciskMessungImmersivenMusikErlebens2022
 
-@http://zotero.org/users/9607203/items/FDZDS5Q5
+@IAQItmt2021
 
-@http://zotero.org/users/9607203/items/XGHYL46K
+@HALTdgm2021
 
-@http://zotero.org/users/9607203/items/2JTL9CLX
+@IAQIdgm2021
 
-@http://zotero.org/users/9607203/items/2YGPEMYU
+@psychTestRpresentation2021
 
-@http://zotero.org/users/9607203/items/N3CINEYA
+@HALT1presentation2021
 
-@http://zotero.org/users/9607203/items/NXDIX2ET
+@HALT2presentation2021
 
-@http://zotero.org/users/9607203/items/29WDUX7S
+@longgoldDGM2020
 
 ## Misc
-@http://zotero.org/users/9607203/items/KUWXLRGC
+@HALTConfig
 
-@http://zotero.org/users/9607203/items/RDSHPMYD
+@HALTpackage
 
-@http://zotero.org/users/9607203/items/SGMKM3J4
+@icmpc16escom11tagunsbericht
 
-@http://zotero.org/users/9607203/items/4Z358YM7
+@EGQpackage
 
-@http://zotero.org/users/9607203/items/V66GKX49
+@psyquest_introduction
 
