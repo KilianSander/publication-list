@@ -1,5 +1,7 @@
 [
-	{
+	{"id":"imei.validation","accessed":{"date-parts":[["2025",8,27]]},"author":[{"family":"Vogt","given":"Kilian"},{"family":"Wycisk","given":"Yves"},{"family":"Platz","given":"Friedrich"},{"family":"Kopiez","given":"Reinhard"}],"citation-key":"imei.validation","container-title":"Musicae Scientiae","container-title-short":"Musicae Scientiae","DOI":"10.1177/10298649251337683","ISSN":"1029-8649, 2045-4147","issue":"3","issued":{"date-parts":[["2025",9]]},"language":"en","page":"425-448","source":"DOI.org (Crossref)","title":"Measuring the immersive music listening experience: Convergence of online and laboratory data","title-short":"Measuring the immersive music listening experience","type":"article-journal","URL":"https://journals.sagepub.com/doi/10.1177/10298649251337683","volume":"29"},
+  {"id":"meier.ai.melody.continuation","author":[{"family":"Meier","given":"Nicholas"},{"family":"Sander","given":"Kilian"},{"family":"Schreiber","given":"Anton"},{"family":"Kopiez","given":"Reinhard"}],"citation-key":"meierCreativeMusicalAchievement2025","container-title":"Jahrbuch Musikpsychologie","DOI":"10.5964/jbdgm.221","issued":{"date-parts":[["2025"]]},"number":"e221","title":"The creative musical achievement of AI systems compared to music students: a replication of the study by Schreiber et al. (2024)","type":"article-journal","volume":"33"},
+  {
 		"id": "HALTpart2",
 		"type": "article-journal",
 		"container-title": "Behavior Research Methods",
@@ -9,6 +11,7 @@
 		"page": "362-378",
 		"title": "The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments",
 		"volume": "56",
+		"issue": "1",
 		"author": [
 			{
 				"family": "Wycisk",
@@ -291,6 +294,7 @@
 		"title-short": "The Headphone and Loudspeaker Test – Part I",
 		"URL": "https://link.springer.com/10.3758/s13428-022-01859-8",
 		"volume": "55",
+		"issue": "3",
 		"author": [
 			{
 				"family": "Wycisk",

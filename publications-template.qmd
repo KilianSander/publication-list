@@ -7,6 +7,10 @@ format: gfm
 ---
 
 ## Journal Articles
+@imei.validation
+
+@meier.ai.melody.continuation
+
 @schaeferAnstrengungsbereitschaftBeimSingen2024
 
 @schreiberCreativePerformanceAI2024
