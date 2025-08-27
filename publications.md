@@ -52,6 +52,23 @@ Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, Article
 
 ## Conference Contributions
 
+Sander, K., Gutzmann, G., & Kopiez, R. (2025, July 21–25). *Sight over
+sound in judgements of audio-visual music performances? Support from a
+conceptual replication of Tsay’s (2013) visual dominance hypothesis*
+\[Presentation\]. 18th International Conference on Music Perception and
+Cognition, São Paulo, Brazil.
+
+Lange, E. B., Baltes, F., Sander, K., & Cox, C. L. (2025, July 21–25).
+*Perceived emotional expression of synthetic singing voices*
+\[Presentation\]. 18th International Conference on Music Perception and
+Cognition, São Paulo, Brazil.
+
+Sander, K., Gutzmann, G., & Kopiez, R. (2025, March 3–4). *Sehen statt
+Hören beim Bewerten von Musikdarbietungen? Konzeptionelle Replikation
+der Hypothese der visuellen Dominanz von Tsay (2013)* \[Presentation\].
+Treffen der Fachgruppe Systematische Musikwissenschaft in der
+Gesellschaft für Musikforschung, Weimar, Germany.
+
 Sander, K., Gutzmann, G., & Kopiez, R. (2024, September 6–8). *Sehen
 statt Hören beim Bewerten von Musikdarbietungen? Konzeptionelle
 Replikation der Hypothese der visuellen Dominanz von Tsay (2013)*

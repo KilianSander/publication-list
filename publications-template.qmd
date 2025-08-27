@@ -26,6 +26,12 @@ format: gfm
 @imei
 
 ## Conference Contributions
+@sanderSightSoundJudgements2025
+
+@langePerceivedEmotionalExpression2025
+
+@sanderSehenStattHoeren2025
+
 @sanderSehenStattHoeren2024
 
 @meierMelodiefortsetzungMitKI2024
