@@ -12,9 +12,11 @@ last_line <-
   length(pub_file)
 pub_file <-
   pub_file[3:last_line]  %>%
-  stringr::str_replace(
-    pattern = "Google Magenta\\*\\*",
-    replacement = "Google Magenta"
+  stringr::str_replace_all(
+    pattern = c(
+      "KIs \\*ChatGPT\\* und" = "KIs\\* ChatGPT \\*und\\*",
+      "\\*Google Magenta\\*\\*" = "Google Magenta"
+    )
   )  %>%
   c(
     '---',

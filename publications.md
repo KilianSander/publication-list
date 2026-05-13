@@ -3,6 +3,11 @@
 
 ## Journal Articles
 
+Vogt, K., Gutzmann, G., & Kopiez, R. (2026). When eyes outvote ears:
+Revisiting Tsay’s Sight-Over-Sound effect in music performance
+evaluation. *Frontiers in Psychology*, *17*, Article 1767475.
+<https://doi.org/10.3389/fpsyg.2026.1767475>
+
 Vogt, K., Wycisk, Y., Platz, F., & Kopiez, R. (2025). Measuring the
 immersive music listening experience: Convergence of online and
 laboratory data. *Musicae Scientiae*, *29*(3), 425–448.
@@ -130,9 +135,9 @@ Germany.
 
 Schreiber, A., Sander, K., & Kopiez, R. (2023, September 8–10).
 *Komponieren mit künstlicher Intelligenz: Melodievervollständigungen von
-Musikstudierenden der HMTMH im Vergleich mit den KIs* ChatGPT *und*
-Google Magenta** \[Poster presentation\]. 39. Jahrestagung der Deutschen
-Gesellschaft für Musikpsychologie, Hannover, Germany.
+Musikstudierenden der HMTMH im Vergleich mit den KIs *ChatGPT* und
+*Google Magenta** \[Poster presentation\]. 39. Jahrestagung der
+Deutschen Gesellschaft für Musikpsychologie, Hannover, Germany.
 
 Kopiez, R., Sander, K., Wycisk, Y., Platz, F., & Silas, S. (2023, June
 15–16). *Effects of audio format, musical content, and their interaction

@@ -7,6 +7,8 @@ format: gfm
 ---
 
 ## Journal Articles
+@vogt-2026-sight-over-sound
+
 @imei.validation
 
 @meier.ai.melody.continuation
